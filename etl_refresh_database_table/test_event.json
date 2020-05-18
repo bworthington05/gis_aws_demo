@@ -1,0 +1,13 @@
+{
+    "database": {
+        "table": "latest_parcels"
+    },
+    "s3": {
+        "bucket": {
+            "name": "bw-code"
+        },
+        "object": {
+            "key": "latest_parcels.sql"
+        }
+    }
+}

@@ -1,0 +1,97 @@
+{
+    "resource": "/api/parcel-stats-by-city",
+    "path": "/api/parcel-stats-by-city",
+    "httpMethod": "GET",
+    "headers": {
+        "Accept": "*/*",
+        "Accept-Encoding": "gzip, deflate, br",
+        "Cache-Control": "no-cache",
+        "Host": "qgyjri8fab.execute-api.us-east-1.amazonaws.com",
+        "Postman-Token": "9313707f-89c3-461c-90b0-00989226a2e9",
+        "User-Agent": "PostmanRuntime/7.24.1",
+        "X-Amzn-Trace-Id": "Root=1-5ec1c4b9-0da6ae30c8fc35586e9004e8",
+        "x-api-key": "Yb7pLgMqbK7cs5ioVbR0a3GYx9GiA9tB3LKjwYR2",
+        "X-Forwarded-For": "72.200.2.75",
+        "X-Forwarded-Port": "443",
+        "X-Forwarded-Proto": "https"
+    },
+    "multiValueHeaders": {
+        "Accept": [
+            "*/*"
+        ],
+        "Accept-Encoding": [
+            "gzip, deflate, br"
+        ],
+        "Cache-Control": [
+            "no-cache"
+        ],
+        "Host": [
+            "qgyjri8fab.execute-api.us-east-1.amazonaws.com"
+        ],
+        "Postman-Token": [
+            "9313707f-89c3-461c-90b0-00989226a2e9"
+        ],
+        "User-Agent": [
+            "PostmanRuntime/7.24.1"
+        ],
+        "X-Amzn-Trace-Id": [
+            "Root=1-5ec1c4b9-0da6ae30c8fc35586e9004e8"
+        ],
+        "x-api-key": [
+            "Yb7pLgMqbK7cs5ioVbR0a3GYx9GiA9tB3LKjwYR2"
+        ],
+        "X-Forwarded-For": [
+            "72.200.2.75"
+        ],
+        "X-Forwarded-Port": [
+            "443"
+        ],
+        "X-Forwarded-Proto": [
+            "https"
+        ]
+    },
+    "queryStringParameters": {
+        "dataset": "cupertino"
+    },
+    "multiValueQueryStringParameters": {
+        "dataset": [
+            "cupertino"
+        ]
+    },
+    "pathParameters": null,
+    "stageVariables": null,
+    "requestContext": {
+        "resourceId": "18y3ob",
+        "resourcePath": "/api/parcel-stats-by-city",
+        "httpMethod": "GET",
+        "extendedRequestId": "MsutCFXwoAMFW1Q=",
+        "requestTime": "17/May/2020:23:11:53 +0000",
+        "path": "/prod/api/parcel-stats-by-city",
+        "accountId": "778775561213",
+        "protocol": "HTTP/1.1",
+        "stage": "prod",
+        "domainPrefix": "qgyjri8fab",
+        "requestTimeEpoch": 1589757113741,
+        "requestId": "6607b983-36fb-4fc7-97eb-f9695e5e1fff",
+        "identity": {
+            "cognitoIdentityPoolId": null,
+            "cognitoIdentityId": null,
+            "apiKey": "Yb7pLgMqbK7cs5ioVbR0a3GYx9GiA9tB3LKjwYR2",
+            "principalOrgId": null,
+            "cognitoAuthenticationType": null,
+            "userArn": null,
+            "apiKeyId": "m7gi06wf7h",
+            "userAgent": "PostmanRuntime/7.24.1",
+            "accountId": null,
+            "caller": null,
+            "sourceIp": "72.200.2.75",
+            "accessKey": null,
+            "cognitoAuthenticationProvider": null,
+            "user": null
+        },
+        "domainName": "qgyjri8fab.execute-api.us-east-1.amazonaws.com",
+        "apiId": "qgyjri8fab"
+    },
+    "body": null,
+    "isBase64Encoded": false
+}

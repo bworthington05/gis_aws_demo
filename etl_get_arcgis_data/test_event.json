@@ -1,0 +1,11 @@
+{
+    "gis": {
+        "url": "https://gis.cupertino.org/cupgis/rest/services/Public/AmazonData/MapServer/11/query",
+        "dataset": "cupertino"
+    },
+    "s3": {
+        "bucket": {
+            "name": "gis-data-raw"
+        }
+    }
+}
